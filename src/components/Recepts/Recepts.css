@@ -1,0 +1,9 @@
+.h1_name {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 2rem; /* Изменено с 2.5rem на 2rem */
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: #455464;
+    text-align: center;
+}

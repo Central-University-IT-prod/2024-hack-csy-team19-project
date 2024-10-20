@@ -1,0 +1,18 @@
+.Nav {
+    grid-column: 1;
+    background-color: #556678;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    min-width: 15vw;
+    width: 200px;
+}
+
+.Nav-said_i {
+    text-align: center;
+    margin: 15px;
+    color: white;
+    font-size: 27px;
+    text-decoration: none;
+    font-family: 'Bakbak One', cursive;
+}
