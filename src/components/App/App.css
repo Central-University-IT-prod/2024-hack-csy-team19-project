@@ -1,0 +1,22 @@
+.App {
+  display: grid;
+  grid-column-gap: 15px;
+  grid-row-gap:50px;
+  grid-template-columns: 350px 1fr;
+  max-width: 1800px;
+  width: 100vw;
+  margin: auto;
+  min-height: 90vh;
+  grid-template-rows: 100px 1fr;
+  background-color: #b7e0ff;
+}
+
+.Main{
+  grid-column: 2;
+  background-color: #00315e;
+  border-radius: 20px;
+}
+.Navbar{
+  background-color: #00315e;
+}
+
